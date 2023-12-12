@@ -1,9 +1,17 @@
 # Anti-Social Activity Analysis Project
 
 ## Objective
-- Investigate the impact of socio-economic and health factors on crime rates.
-- Gain insights into the relationship between these factors and crime rates.
-- Identify key considerations for policymakers to mitigate and control crimes.
+India's National Crime Records Bureau (NCRB) released the latest crime statistics, indicating a slight increase in crimes post-COVID lockdowns. 
+Then , I had these questions in my mind
+
+- How do socio-economic and health factors impact the prevalence of crimes ?
+- What specific areas should policymakers consider to effectively reduce and mitigate the occurrences of these crimes?
+- To understand these aspects comprehensively, this project aims to analyze the relationship between socio-economic indicators, health statistics, and crime rates.
+
+  ## Project Goal
+- Investigate the correlation between socio-economic and health-related factors and crime rates across all countries .
+- Identify key considerations & insights for policymakers to mitigate and control crimes.
+
 
 ## Data Collection and Preprocessing
 - Sourced data from the World Bank database covering crime statistics and socio-economic/health indicators across multiple countries in the last 30 years.
